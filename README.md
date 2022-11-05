@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Neba Desmond</h1>
-<h3 align="center">I'm a Computer Engineer</h3>
+<h3 align="center">I'm a Computer Engineer | Tech enthusiast | Java Programmer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dezzy12&label=Profile%20views&color=0e75b6&style=flat" alt="dezzy12" /> </p>
 
@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/desmond_neba" target="blank"><img src="https://img.shields.io/twitter/follow/desmond_neba?logo=twitter&style=for-the-badge" alt="desmond_neba" /></a> </p>
 
-- 🔭 I’m currently working on **Web Development**
+- 🔭 I’m currently working on **Web Development | Desktop Applications | WebApplications **
 
-- 🌱 I’m currently learning **java,javascript,react,typescrpt and python**
+- 🌱 I’m currently learning **java,javascript,typescrpt and python**
 
-- 👯 I’m looking to collaborate on **projects including java and python**
+- 👯 I’m looking to collaborate on **projects including JAVA and python**
 
-- 🤝 I’m looking for help with **java,javascript and react**
+- 🤝 I’m looking for help with **java,javascript and typescript**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Dezzy12](https://github.com/Dezzy12)
 
