@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Neba Desmond</h1>
-<h3 align="center">I'm a Computer Engineer | Tech enthusiast | Java Programmer</h3>
+<h3 align="center">I'm a Computer Engineer | Tech enthusiast | Java Programmer | Backend Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dezzy12&label=Profile%20views&color=0e75b6&style=flat" alt="dezzy12" /> </p>
 
