@@ -17,7 +17,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Dezzy12](https://github.com/Dezzy12)
 
-- 💬 About: **...Dumbmie in tech🌚️**
+- 💬 About: **Nothing to see here...**
 
 - 📫 How to reach me **desmondneba134@gmail.com**
 
