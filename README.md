@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi!<img width="30" src="./assets/waving.gif">I'm Neba Desmond.</h1>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Briem+Hand&weight=500&size=23&pause=1000&color=2BE910&center=true&random=false&width=435&lines=I+am+a+Backend+Engineer;Full+Stack+Developer;System+Designer;Database+Administrator;Lets+Connect+%3A)" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Briem+Hand&weight=500&size=23&pause=1000&color=2BE910&center=true&random=false&width=435&lines=I+am+a+Backend+Engineer;Full+Stack+Developer;Android+Developer;System+Designer;Database+Administrator;Lets+Connect+%3A)" alt="Typing SVG" /></a>
 </div>
 
 # 💫 About Me:
