@@ -4,7 +4,22 @@
 </div>
 
 # 💫 About Me:
-🔭 I’m currently working on: Developing robust backend solutions using Java, Python, and JavaScript. I enjoy building scalable applications and exploring various frameworks like Spring Boot, Django, FASTAPI, and Express.js.<br><br>👯 I’m looking to collaborate on: Exciting projects that involve backend development, API design, and exploring the intersection of technology and machine learning.<br><br>🤝 I’m looking for help with: Deepening my knowledge and expertise in machine learning and AI. I'm eager to learn from experienced practitioners in the field and expand my understanding of advanced ML techniques and applications.<br><br>🌱 I’m currently learning: SpringBoot alongside Django and Express for Backend development.<br><br>💬 Ask me about: Backend development using Java, Python, or JavaScript, as well as my experience with frameworks like Spring Boot, Django, FASTAPI, and Express.js<br><br>⚡ Fun fact: 
+🔭 **Currently Working On:**  
+I am developing robust backend solutions using Java, Python, and JavaScript. I enjoy building scalable applications and exploring frameworks like Spring Boot, Django, FASTAPI, and Express.js. Additionally, I'm enhancing my Android skills by working on projects with Jetpack Compose and Kotlin.
+
+👯 **Looking to Collaborate On:**  
+Exciting projects involving backend development, API design, Android development with Kotlin, and the intersection of technology and machine learning.
+
+🤝 **Seeking Help With:**  
+Deepening my knowledge in machine learning and AI. I'm eager to learn from experienced practitioners and expand my understanding of advanced ML techniques and applications.
+
+🌱 **Currently Learning:**  
+Spring Boot, Django, and Express for backend development, as well as Kotlin for Android development.
+
+💬 **Ask Me About:**  
+Backend development using Java, Python, or JavaScript, along with my experience in frameworks like Spring Boot, Django, FASTAPI, Express.js, and Jetpack Compose.
+
+⚡ **Fun Fact:**  
 Loading ...
 
 
